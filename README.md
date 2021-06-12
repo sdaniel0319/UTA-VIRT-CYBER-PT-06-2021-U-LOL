@@ -1,7 +1,7 @@
-## Links to PDF slides and student guides
+## Convenient Links
 ### Module 1 - Security Fundamentals
-| Slides | Student Guide |
-|--------| ------------- |
+| Slides | Student Guide | Homework |
+|--------| ------------- | -------- |
 |[1.1 The Cybersecurity Mindset.pdf](Week-01/1/1.1%20The%20Cybersecurity%20Mindset.pdf) | [1.1 Student Guide](Week-01/1/StudentGuide.md) |
 |[1.2 Attacking and Defending.pdf](Week-01/2/1.2%20Attacking%20and%20Defending.pdf) | [1.2 Student Guide](Week-01/2/StudentGuide.md) |
 |[1.3_ Surveying the Cyberspace.pdf](Week-01/3/1.3_%20Surveying%20the%20Cyberspace.pdf) | [1.3 Student Guide](Week-01/3/StudentGuide.md) |
