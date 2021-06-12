@@ -4,7 +4,7 @@
 |--------| ------------- | -------- |
 |[1.1 The Cybersecurity Mindset.pdf](Week-01/1/1.1%20The%20Cybersecurity%20Mindset.pdf) | [1.1 Student Guide](Week-01/1/StudentGuide.md) |
 |[1.2 Attacking and Defending.pdf](Week-01/2/1.2%20Attacking%20and%20Defending.pdf) | [1.2 Student Guide](Week-01/2/StudentGuide.md) |
-|[1.3_ Surveying the Cyberspace.pdf](Week-01/3/1.3_%20Surveying%20the%20Cyberspace.pdf) | [1.3 Student Guide](Week-01/3/StudentGuide.md) | [01-Cybersecurity-101](Week-01/Homework/01-Cybersecurity-101/Unsoled)
+|[1.3_ Surveying the Cyberspace.pdf](Week-01/3/1.3_%20Surveying%20the%20Cyberspace.pdf) | [1.3 Student Guide](Week-01/3/StudentGuide.md) | [01-Cybersecurity-101](Week-01/Homework/01-Cybersecurity-101/Unsolved)
 
 ### Module 2 - System Administration
 
