@@ -9,7 +9,7 @@ In this activity, you’ll use the threats you identified in the previous activi
 
 Access the spreadsheet here: 
 
-- [Risk Analysis Template](https://docs.google.com/spreadsheets/d/1gwNSDxTnVOv7d8PXXZCjZl00ymtKwQjkWCKD1IaMC-A/edit#gid=1384626883) 
+- [Risk Analysis Template](https://docs.google.com/spreadsheets/d/1nQXJiusRICcjm49RBhrrp5QSuiwckaJYEQzwfUNrkTk/edit?usp=sharing) 
 
 Complete this activity using Google Sheets.
 
