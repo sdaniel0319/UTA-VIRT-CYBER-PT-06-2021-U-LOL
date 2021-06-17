@@ -18,10 +18,6 @@ By the end of this class, you will be able to:
 
 The class slides are available on Google Drive here: [2.3 Slides](https://docs.google.com/presentation/d/1Cao-Yx86M0OQ7QIsIn21HG0-O-1jFCYe6s1ten8vfTE/edit#slide=id.g480f0dd0a7_0_1803)
 
-
-### Time Tracker
-The time tracker is available on Google Drive here: [2.3 Time Tracker](https://docs.google.com/spreadsheets/d/1RKy_tQXA4UdF4pO0AD_N7AlMenfKAam9k2CbzY2olHY/edit#gid=1145703143)
-
 ---
 
 ### 01. Welcome and Overview
