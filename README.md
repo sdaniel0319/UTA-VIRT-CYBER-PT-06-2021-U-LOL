@@ -10,7 +10,9 @@
 |[2.3 Governance and Compliance.pdf](Week-02/3/2.3%20Governance%20and%20Compliance.pdf)|[2.3 Student Guide](Week-02/3/StudentGuide.md) | 
 
 ### Module 2 - System Administration
-
+| Slides | Student Guide | Homework |
+|--------| ------------- | -------- |
+|[3.1 How Sweet is Terminal.pdf](Week-03/1/3.1%20How%20Sweet%20is%20Terminal.pdf) | [3.1 Student Guide](Week-03/1/StudentGuide.md) |
 ### Module 3 - Networks and Network Security - Project 1
 
 ### Module 4 - Offensive Security
