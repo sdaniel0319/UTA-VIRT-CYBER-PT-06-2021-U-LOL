@@ -1,4 +1,6 @@
 ## Convenient Links
+VM Maintenance Document:  
+https://docs.google.com/document/d/1h-zcoKt6c4AnZBENHLPWsXJ1djs1c96-9zkf7Jsb_GQ/edit
 ### Module 1 - Security Fundamentals
 | Slides | Student Guide | Homework |
 |--------| ------------- | -------- |
