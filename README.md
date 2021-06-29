@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1h-zcoKt6c4AnZBENHLPWsXJ1djs1c96-9zkf7Jsb_GQ/
 |[3.2 Commanding the Command Line.pdf](Week-03/2/3.2%20Commanding%20the%20Command%20Line.pdf) | [3.2 Student Guide](Week-03/2/StudentGuide.md) |
 |[3.3 Sticking to the Script.pdf](Week-03/3/3.3%20Sticking%20to%20the%20Script.pdf) | [3.3 Student Guide](Week-03/3/StudentGuide.md) | [03-Terminal-and-Bash](Week-03/Homework) |
 |[4.1 Introduction to Linux.pdf](Week-04/1/4.1%20Introduction%20to%20Linux.pdf) | [4.1 Student Guide](Week-04/1/StudentGuide.md) |
-|[4.2 Access Control](Week-04/2/4.2%20Access%20Control.pdf) | [4.2 Student Guide](Week-04/2/StudentGuide.md)
+|[4.2 Access Controls](Week-04/2/4.2%20Access%20Controls.pdf) | [4.2 Student Guide](Week-04/2/StudentGuide.md)
 ### Module 3 - Networks and Network Security - Project 1
 
 ### Module 4 - Offensive Security
