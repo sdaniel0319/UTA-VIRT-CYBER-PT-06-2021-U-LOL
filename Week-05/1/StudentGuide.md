@@ -598,7 +598,7 @@ Completing this activity will require the following steps:
 
    - Run the command to add a new file in the `emergency/admit` directory:
 
-     - `echo "New file for CJones" > emergency/admit/file6`
+     - `echo "New file for CJones" > emergency/admit/file6.txt`
 
    - Run the commands to create the Monday incremental backup, list_the contents, and show the output from the command with the added file.
 
@@ -626,7 +626,7 @@ Completing this activity will require the following steps:
 
     - Run the following commands: 
 
-        - `echo "Update MSmith" >> emergency/discharge/file2`
+        - `echo "Update MSmith" >> emergency/discharge/file2.txt`
 
         - `tar cvvWf emerg_back_tues.tar --listed-incremental=emerg_backup.snar emergency`
 
