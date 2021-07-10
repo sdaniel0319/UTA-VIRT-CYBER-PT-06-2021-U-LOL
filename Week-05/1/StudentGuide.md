@@ -636,8 +636,7 @@ Completing this activity will require the following steps:
 
         ```
           drwxr-xr-x root/root        19 2019-12-28 17:46 emergency/discharge/
-          Y file2
-          N file2.txt
+          Y file2.txt
         ```
 
       - Only the updated file is added to the `emerg_back_tues.tar` file.
