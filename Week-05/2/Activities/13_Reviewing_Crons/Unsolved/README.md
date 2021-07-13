@@ -28,7 +28,7 @@
 
     - What is a shebang?
 
-    - What two characters should come before the filename of a script?
+    - What two characters should come before the filename of a script when executing it?
 
     - Jane's script has user and group ownership of a script with `-rw-r--r--` permissions, but she cannot get it to run. What must she do to the file before it will run?
 
